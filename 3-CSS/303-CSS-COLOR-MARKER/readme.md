@@ -1,5 +1,7 @@
 # Freecodecamp Project : Learn CSS Colors by Building a Set of Colored Markers-CSS-303-01
 
+Color Marker Hosted Link: https://jjeerryyy28.github.io/WebAssignment/3-CSS/303-CSS-COLOR-MARKER/CSS-303-01/index.html
+
 ## Preview
 
 ![image](./Images/Screenshot%202022-09-21%20at%204.46.14%20PM.png)
