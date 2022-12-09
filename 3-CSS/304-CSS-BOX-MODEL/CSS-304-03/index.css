@@ -1,1 +1,40 @@
 /* start your css here */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.whiskers{
+    width: 40%;
+    height: 90%;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+
+}
+
+.whiskers figcaption{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: larger;
+}
+
+.whiskers p{
+    font-size: larger;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    color: rgb(66, 65, 65);
+}
+
